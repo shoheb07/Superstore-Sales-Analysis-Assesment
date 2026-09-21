@@ -1,0 +1,61 @@
+IMP Solved Questions 1.What is the overall business performance?
+
+2.How are Sales and Profit changing over time?
+
+3.Which Categories and Sub-Categories are most profitable?
+
+4.Which Products generate the most and least profit?
+
+5.Which Customers are genuinely profitable?
+
+6.Which States have high Sales but poor Profitability?
+
+7.Which Customer Segment is most valuable?
+
+8.Does Discount affect Profitability?
+
+9.Which Shipping Mode provides the best balance of cost/time and profitability?
+
+10.Where is the business losing money, and what are the major contributors?
+
+Busines Recomendation
+
+1."Profitability depends on a combination of quantity, selling price, discount, product mix and associated costs. Therefore, discount decisions should not be based on quantity alone.
+
+"
+
+2.Focus on profitable products(High Sales + High Profit + Healthy Profit Margin)   
+
+
+
+3.Review consistently loss-making and low-margin products. Consider repricing, reducing discounts, controlling costs, or discontinuing products that remain unprofitable after review."
+
+
+4."Prioritize categories and sub-categories that consistently generate high profit and healthy margins, while investigating poorly performing sub-categories for pricing, discount and product-mix issues.
+
+"
+
+5."Customer value should be evaluated using both revenue and profitability. High-sales customers should not automatically be considered the most valuable, as some may generate thin or negative margins."
+
+**Star ? retain and prioritize
+Efficient ? nurture and grow
+Vanity ? review discounts/pricing
+Money-Loser ? investigate profitability**
+
+
+
+6.Use targeted discounts based on product demand, quantity, margin and profitability rather than applying the same discount strategy to all products.
+
+"
+
+7."Investigate states with high sales but poor profitability. Review discount levels, product mix, shipping costs and pricing in these regions.
+
+"
+
+8."Superstore should avoid evaluating performance based solely on sales. Product, customer, geographic and discount strategies should be evaluated using both revenue and profitability."
+
+
+
+**Final Conclusion**
+
+Superstore should move from a sales-focused strategy to a profitability-focused strategy. Sustainable growth should come from selling the right products to the right customers, maintaining healthy margins, using discounts strategically, and continuously identifying and addressing sources of loss.
